@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"name": "banana",
+			"path": "../../../Desktop/banana"
+		},
+		{
+			"name": "natdwils.music.github.io-master",
+			"path": "../../../Downloads/natdwils.music.github.io-master"
+		},
+		{
+			"name": "natdwils.calculator.github.io-main",
+			"path": "../../../Downloads/natdwils.calculator.github.io-main"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../Downloads/sidcup-family-golf-main"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "JS Exercise"
+	}
+}
